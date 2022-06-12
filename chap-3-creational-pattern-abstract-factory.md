@@ -1,5 +1,5 @@
 ```
-추상 팩토리 패턴 (Abstract Factory)
+추상 팩토리 패턴 (Abstract Factory) - 객체 생성 (Object creational) 
 
 - 의도
 상세화된 서브클래스를 정의하지 않고도 서로 관련성이 있거나 독립적인 여러 객체의 군을 생성하기 위한 인터페이스를 제공
